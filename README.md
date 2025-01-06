@@ -3,7 +3,7 @@
 This is the first experiment of Image Segmentation for Human Oesophagus Nuclei
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, 
-and  <a href="https://drive.google.com/file/d/1pas3Xya8mKTBU9qJq3dWLbKwjNh7wGr1/view?usp=sharing">
+and a pre-augmented <a href="https://drive.google.com/file/d/1pas3Xya8mKTBU9qJq3dWLbKwjNh7wGr1/view?usp=sharing">
 Oeophagus-ImageMask-Dataset.zip</a>, which was derived by us from 
 <a href="https://www.kaggle.com/datasets/ipateam/nuinsseg">
 NuInsSeg: A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Images.
